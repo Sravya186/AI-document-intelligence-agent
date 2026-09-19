@@ -1,7 +1,4 @@
 streamlit
-fastapi
-uvicorn
-python-multipart
 langchain
 langchain-community
 langchain-text-splitters
