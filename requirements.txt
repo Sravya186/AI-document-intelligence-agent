@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+faiss-cpu
+sentence-transformers
+pymupdf
+langchain-groq
+python-dotenv
